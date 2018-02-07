@@ -146,7 +146,7 @@
 				<configuration>
 					<scanIntervalSeconds>10</scanIntervalSeconds>
 					<httpConnector>
-          <port>9090</port>
+          <port>9092</port>
       </httpConnector>
 				</configuration>
 			</plugin>
